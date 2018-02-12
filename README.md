@@ -2,4 +2,7 @@
 
 Free to use as a template.
 
-![alt text](reactWebsiteHome.png "Description goes here")
+![alt text](reactWebsiteHome.png "Home Page")
+
+
+![alt text](reactWebsiteContactPage.png "Contact Page")
